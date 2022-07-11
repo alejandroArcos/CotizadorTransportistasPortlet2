@@ -1,0 +1,4 @@
+Bundle-Name: CotizadorTransportistasPortlet
+Bundle-SymbolicName: CotizadorTransportistasPortlet
+Bundle-Version: 1.0.0
+Export-Package: CotizadorTransportistasPortlet.constants
